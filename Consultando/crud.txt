@@ -1,0 +1,40 @@
+create database Practica
+go
+use Practica
+
+create table Empleado(
+Cedula varchar (30) Primary key,
+Nombre varchar (30),
+Apellido varchar(30),
+Direccion varchar(30),
+Telefono varchar(30),
+Salario decimal
+)
+go
+insert into Empleado values('1152704288','Santiago','Ortega','dg235','3206131692',2500000),
+('115','Sebastian','Cordoba','caller423','320425523',1500000),
+('23423412','Daniela','Morales','cll3452','30242312',7000000),
+('10052323','Sol','Mar','cll452312','244252321',5500000)
+
+go
+create proc USP_MostrarEmpleado
+as
+Select * from Empleado
+go
+
+
+exec USP_MostrarEmpleado
+
+go
+
+create proc USP_IngresarEmpleado
+@Cedula varchar(30),
+@Nombre varchar(30),
+@Apellido varchar(30),
+@Direccion varchar(30),
+@Telefono varchar(30),
+@salario decimal
+as
+Insert into Empleado values (@Cedula,@Nombre,@Apellido,@Direccion,@Telefono,@salario)
+go
+exec USP_IngresarEmpleado

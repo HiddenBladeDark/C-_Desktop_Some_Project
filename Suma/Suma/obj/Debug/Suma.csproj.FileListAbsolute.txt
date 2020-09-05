@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\entrega c\Suma\Suma\bin\Debug\Suma.dll
+C:\Users\user\Desktop\entrega c\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\user\Desktop\entrega c\Suma\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Suma\Suma\obj\Debug\Suma.dll
+C:\Users\user\Desktop\entrega c\Suma\Suma\obj\Debug\Suma.pdb

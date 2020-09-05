@@ -1,0 +1,27 @@
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\bin\Debug\LNnomina.dll
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\bin\Debug\LNnomina.pdb
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.dll
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.pdb
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\bin\Debug\regla.dll
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\bin\Debug\regla.pdb
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CopyComplete
+C:\Users\Aprendiz\Desktop\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\bin\Debug\LNnomina.dll
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\bin\Debug\LNnomina.pdb
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\bin\Debug\regla.dll
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\bin\Debug\regla.pdb
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CopyComplete
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.dll
+C:\Users\user\Desktop\c#\Nomina\LNnomina\LNnomina\obj\Debug\LNnomina.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\bin\Debug\LNnomina.dll
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\bin\Debug\LNnomina.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\bin\Debug\regla.dll
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\bin\Debug\regla.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\obj\Debug\LNnomina.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\obj\Debug\LNnomina.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\obj\Debug\LNnomina.dll
+C:\Users\user\Desktop\entrega c\Nomina2\LNnomina\LNnomina\obj\Debug\LNnomina.pdb

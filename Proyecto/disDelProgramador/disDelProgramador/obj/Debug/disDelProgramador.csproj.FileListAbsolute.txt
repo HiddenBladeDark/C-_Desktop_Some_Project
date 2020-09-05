@@ -1,0 +1,9 @@
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\bin\Debug\disDelProgramador.exe.config
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\bin\Debug\disDelProgramador.exe
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\bin\Debug\disDelProgramador.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.Form1.resources
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.exe
+C:\Users\Aprendiz\Desktop\Proyecto\disDelProgramador\disDelProgramador\obj\Debug\disDelProgramador.pdb

@@ -1,0 +1,83 @@
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe.config
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Form1.resources
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.GenerateResource.Cache
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.exe
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.dll
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.dll
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.dll
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csprojResolveAssemblyReference.cache
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe.config
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.pdb
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.dll
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.dll
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.dll
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.pdb
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.pdb
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.pdb
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Form1.resources
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Properties.Resources.resources
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.GenerateResource.cache
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CoreCompileInputs.cache
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CopyComplete
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.exe
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.pdb
+C:\Users\Software\Desktop\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe.config
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.pdb
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.dll
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.dll
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.dll
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.pdb
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.pdb
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.pdb
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Form1.resources
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Properties.Resources.resources
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.GenerateResource.cache
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.exe
+C:\Users\andre\Downloads\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.pdb
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe.config
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.pdb
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.dll
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.dll
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.dll
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.pdb
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.pdb
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.pdb
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Form1.resources
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Properties.Resources.resources
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.GenerateResource.cache
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.exe
+C:\Users\user\Desktop\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe.config
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.exe
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\AppPrese.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibParametro.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\Logica de negocios.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\bin\Debug\LibConexionBD.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csprojAssemblyReference.cache
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Form1.resources
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.Properties.Resources.resources
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.GenerateResource.cache
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CoreCompileInputs.cache
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.csproj.CopyComplete
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.exe
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\Presenta\AppPrese\AppPrese\obj\Debug\AppPrese.pdb

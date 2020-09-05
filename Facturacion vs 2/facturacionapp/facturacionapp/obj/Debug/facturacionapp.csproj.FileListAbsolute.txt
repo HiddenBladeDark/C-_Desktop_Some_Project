@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\facturacionapp.exe.config
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\facturacionapp.exe
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\facturacionapp.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\LogicaNegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\Rnegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\LogicaNegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\bin\Debug\Rnegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.Form1.resources
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.Properties.Resources.resources
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.csproj.CopyComplete
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.exe
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\facturacionapp\facturacionapp\obj\Debug\facturacionapp.csprojAssemblyReference.cache

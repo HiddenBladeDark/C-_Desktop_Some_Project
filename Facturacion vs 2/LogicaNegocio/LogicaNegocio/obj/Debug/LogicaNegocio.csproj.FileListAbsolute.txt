@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\bin\Debug\LogicaNegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\bin\Debug\LogicaNegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\bin\Debug\Rnegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\bin\Debug\Rnegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\obj\Debug\LogicaNegocio.csproj.CopyComplete
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\obj\Debug\LogicaNegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\obj\Debug\LogicaNegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\LogicaNegocio\LogicaNegocio\obj\Debug\LogicaNegocio.csprojAssemblyReference.cache

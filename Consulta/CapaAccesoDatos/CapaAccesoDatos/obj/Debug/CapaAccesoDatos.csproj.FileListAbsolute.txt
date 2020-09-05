@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\entrega c\Consulta\CapaAccesoDatos\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.dll
+C:\Users\user\Desktop\entrega c\Consulta\CapaAccesoDatos\CapaAccesoDatos\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\user\Desktop\entrega c\Consulta\CapaAccesoDatos\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Consulta\CapaAccesoDatos\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.dll
+C:\Users\user\Desktop\entrega c\Consulta\CapaAccesoDatos\CapaAccesoDatos\obj\Debug\CapaAccesoDatos.pdb

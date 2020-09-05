@@ -1,0 +1,11 @@
+C:\Users\Aprendiz\Desktop\Nomina\regla\regla\bin\Debug\regla.dll
+C:\Users\Aprendiz\Desktop\Nomina\regla\regla\bin\Debug\regla.pdb
+C:\Users\Aprendiz\Desktop\Nomina\regla\regla\obj\Debug\regla.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Nomina\regla\regla\obj\Debug\regla.dll
+C:\Users\Aprendiz\Desktop\Nomina\regla\regla\obj\Debug\regla.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\bin\Debug\regla.dll
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\bin\Debug\regla.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\obj\Debug\regla.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\obj\Debug\regla.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\obj\Debug\regla.dll
+C:\Users\user\Desktop\entrega c\Nomina2\regla\regla\obj\Debug\regla.pdb

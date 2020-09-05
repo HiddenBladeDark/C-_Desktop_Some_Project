@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\bin\Debug\LNConsult.dll
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\bin\Debug\LNConsult.pdb
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\bin\Debug\CapaAccesoDatos.dll
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\obj\Debug\LNConsult.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\obj\Debug\LNConsult.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\obj\Debug\LNConsult.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\obj\Debug\LNConsult.dll
+C:\Users\user\Desktop\entrega c\Consulta\LNConsult\LNConsult\obj\Debug\LNConsult.pdb

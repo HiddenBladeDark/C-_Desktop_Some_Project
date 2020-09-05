@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\ConsultaAPP.exe.config
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\ConsultaAPP.exe
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\ConsultaAPP.pdb
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\LNConsult.dll
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\CapaAccesoDatos.dll
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\LNConsult.pdb
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\bin\Debug\CapaAccesoDatos.pdb
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.Form1.resources
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.Properties.Resources.resources
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.csproj.GenerateResource.cache
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.exe
+C:\Users\user\Desktop\entrega c\Consulta\ConsultaAPP\ConsultaAPP\obj\Debug\ConsultaAPP.pdb

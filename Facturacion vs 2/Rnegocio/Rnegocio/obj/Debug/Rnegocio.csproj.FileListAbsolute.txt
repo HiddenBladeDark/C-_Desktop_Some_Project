@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\Rnegocio\Rnegocio\bin\Debug\Rnegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\Rnegocio\Rnegocio\bin\Debug\Rnegocio.pdb
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\Rnegocio\Rnegocio\obj\Debug\Rnegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\Rnegocio\Rnegocio\obj\Debug\Rnegocio.dll
+C:\Users\user\Desktop\c#\facturacion\Facturacion vs 2\Rnegocio\Rnegocio\obj\Debug\Rnegocio.pdb

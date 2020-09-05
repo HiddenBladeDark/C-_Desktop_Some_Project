@@ -1,0 +1,13 @@
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\bin\Debug\Sumaapp.exe.config
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\bin\Debug\Sumaapp.exe
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\bin\Debug\Sumaapp.pdb
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\bin\Debug\Suma.dll
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\bin\Debug\Suma.pdb
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.Form1.resources
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.Properties.Resources.resources
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.exe
+C:\Users\user\Desktop\entrega c\Suma\Sumaapp\Sumaapp\obj\Debug\Sumaapp.pdb

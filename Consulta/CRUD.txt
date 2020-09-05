@@ -1,0 +1,42 @@
+create database Empresa
+
+use Empresa
+
+create table Empleado(
+cc int primary key,
+Nombre varchar(30) not null,
+Apellido varchar(30) not null,
+Direccion varchar(30)not null,
+Salario decimal not null
+)
+go
+insert Empleado
+values
+(1152704288,'Santiago','Ortega','Dg 55 n 31 52',2500000)
+go
+
+create proc EM_Registro(
+@cc int,
+@Nombre varchar(30),
+@Apellido varchar(30),
+@Direccion varchar(30),
+@Salario decimal,
+@Mensaje varchar (100)out
+)
+as
+	begin /*Inicio*/
+		if (exists(select * from Empleado where cc=@cc))
+		set @Mensaje='Esta cedula ya esta registrada'
+
+		else
+
+			begin
+			Insert Empleado values (@cc,@Nombre,@Apellido,@Direccion,@Salario)
+			set @Mensaje='Se registro el alumno Correctamente'
+			end
+	end
+	go
+Create Proc EM_Consulta
+as
+Select * from Empleado
+go

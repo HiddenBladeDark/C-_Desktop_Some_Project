@@ -1,0 +1,45 @@
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\LNnomina.dll
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\regla.dll
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\LNnomina.pdb
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\bin\Debug\regla.pdb
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CopyComplete
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\Aprendiz\Desktop\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\LNnomina.dll
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\regla.dll
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\LNnomina.pdb
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\bin\Debug\regla.pdb
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CopyComplete
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\user\Desktop\c#\Nomina\aplicacion\aplicacion\obj\Debug\aplicacion.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\aplicacion.exe.config
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\aplicacion.exe
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\aplicacion.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\LNnomina.dll
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\regla.dll
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\LNnomina.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\bin\Debug\regla.pdb
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.Form1.resources
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.Properties.Resources.resources
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.GenerateResource.cache
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.exe
+C:\Users\user\Desktop\entrega c\Nomina2\aplicacion\aplicacion\obj\Debug\aplicacion.pdb

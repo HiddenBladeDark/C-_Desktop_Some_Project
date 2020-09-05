@@ -1,0 +1,41 @@
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csprojResolveAssemblyReference.cache
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.dll
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.dll
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.dll
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.dll
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.pdb
+C:\Users\Aprendiz\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.pdb
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.dll
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.pdb
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.dll
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.dll
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.pdb
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.pdb
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CopyComplete
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.dll
+C:\Users\Software\Desktop\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.pdb
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.dll
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.pdb
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.dll
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.dll
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.pdb
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.pdb
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csprojAssemblyReference.cache
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CopyComplete
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.dll
+C:\Users\andre\Downloads\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\Logica de negocios.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibConexionBD.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\bin\Debug\LibParametro.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CoreCompileInputs.cache
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csproj.CopyComplete
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.dll
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.pdb
+C:\Users\PcHiden\Documents\Programacion\entrega c\Proyecto\lbl_Ln_Emp\Logica de negocios\Logica de negocios\obj\Debug\Logica de negocios.csprojAssemblyReference.cache

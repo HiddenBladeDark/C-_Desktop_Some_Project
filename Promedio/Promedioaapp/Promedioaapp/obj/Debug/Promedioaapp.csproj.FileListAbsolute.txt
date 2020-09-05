@@ -1,0 +1,12 @@
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\bin\Debug\Promedioaapp.exe.config
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\bin\Debug\Promedioaapp.exe
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\bin\Debug\Promedioaapp.pdb
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.Form1.resources
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.Properties.Resources.resources
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.csproj.CopyComplete
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.exe
+C:\Users\user\Desktop\c#\holamundo\Promedio\Promedioaapp\Promedioaapp\obj\Debug\Promedioaapp.pdb

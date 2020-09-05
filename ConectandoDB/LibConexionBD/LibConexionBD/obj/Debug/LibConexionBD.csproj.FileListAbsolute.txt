@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.dll
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\bin\Debug\LibConexionBD.pdb
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\bin\Debug\LibParametro.dll
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\bin\Debug\LibParametro.pdb
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.csproj.CopyComplete
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.dll
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibConexionBD\LibConexionBD\obj\Debug\LibConexionBD.pdb

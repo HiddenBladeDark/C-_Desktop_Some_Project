@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LBconexion", "LBconexion\LBconexion.csproj", "{908BB997-FFEC-4613-B5F4-0E8EF2AECFF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{908BB997-FFEC-4613-B5F4-0E8EF2AECFF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{908BB997-FFEC-4613-B5F4-0E8EF2AECFF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{908BB997-FFEC-4613-B5F4-0E8EF2AECFF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{908BB997-FFEC-4613-B5F4-0E8EF2AECFF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC1F746D-C913-421D-ACAE-6F1C7C805F47}
+	EndGlobalSection
+EndGlobal

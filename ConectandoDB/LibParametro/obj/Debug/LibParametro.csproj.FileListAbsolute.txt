@@ -1,0 +1,6 @@
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\bin\Debug\LibParametro.dll
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\bin\Debug\LibParametro.pdb
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\obj\Debug\LibParametro.csprojAssemblyReference.cache
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\obj\Debug\LibParametro.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\obj\Debug\LibParametro.dll
+C:\Users\user\Desktop\entrega c\ConectandoDB\LibParametro\obj\Debug\LibParametro.pdb
