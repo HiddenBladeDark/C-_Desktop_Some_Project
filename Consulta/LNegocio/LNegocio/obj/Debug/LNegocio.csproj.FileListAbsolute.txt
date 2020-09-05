@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\LNegocio.dll
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\LNegocio.pdb
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\Datos.dll
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\bin\Debug\Datos.pdb
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\obj\Debug\LNegocio.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\obj\Debug\LNegocio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\obj\Debug\LNegocio.csproj.CopyComplete
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\obj\Debug\LNegocio.dll
+C:\Users\user\Desktop\c#\Consulta\LNegocio\LNegocio\obj\Debug\LNegocio.pdb

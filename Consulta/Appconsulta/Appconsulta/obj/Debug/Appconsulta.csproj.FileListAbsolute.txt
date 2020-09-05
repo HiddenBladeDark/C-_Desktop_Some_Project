@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\Appconsulta.exe.config
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\Appconsulta.exe
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\Appconsulta.pdb
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\ClassLibrary1.dll
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\Datos.dll
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\LNegocio.dll
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\ClassLibrary1.pdb
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\Datos.pdb
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\bin\Debug\LNegocio.pdb
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.Form1.resources
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.Properties.Resources.resources
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.csproj.CopyComplete
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.exe
+C:\Users\user\Desktop\c#\Consulta\Appconsulta\Appconsulta\obj\Debug\Appconsulta.pdb

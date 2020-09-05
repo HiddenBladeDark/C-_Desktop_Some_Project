@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\bin\Debug\calculadora clases.exe.config
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\bin\Debug\calculadora clases.exe
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\bin\Debug\calculadora clases.pdb
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora clases.csprojAssemblyReference.cache
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora_clases.Form1.resources
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora_clases.Properties.Resources.resources
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora clases.csproj.GenerateResource.cache
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora clases.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora clases.exe
+C:\Users\user\Desktop\c#\calculadora con clases\calculadora clases\calculadora clases\obj\Debug\calculadora clases.pdb
